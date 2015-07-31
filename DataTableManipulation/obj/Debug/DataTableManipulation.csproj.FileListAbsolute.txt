@@ -1,0 +1,5 @@
+D:\Personal Workspace\DataTableManipulation\DataTableManipulation\bin\Debug\DataTableManipulation.exe
+D:\Personal Workspace\DataTableManipulation\DataTableManipulation\bin\Debug\DataTableManipulation.pdb
+D:\Personal Workspace\DataTableManipulation\DataTableManipulation\obj\Debug\DataTableManipulation.csprojResolveAssemblyReference.cache
+D:\Personal Workspace\DataTableManipulation\DataTableManipulation\obj\Debug\DataTableManipulation.exe
+D:\Personal Workspace\DataTableManipulation\DataTableManipulation\obj\Debug\DataTableManipulation.pdb
